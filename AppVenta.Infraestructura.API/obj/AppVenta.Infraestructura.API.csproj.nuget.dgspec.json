@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.API\\AppVenta.Infraestructura.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\AppVenta.Applicaciones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\AppVenta.Applicaciones.csproj",
+        "projectName": "AppVenta.Applicaciones",
+        "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\AppVenta.Applicaciones.csproj",
+        "packagesPath": "C:\\Users\\T480s i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T480s i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj": {
+                "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj",
+        "projectName": "AppVenta.Dominio",
+        "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj",
+        "packagesPath": "C:\\Users\\T480s i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T480s i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.API\\AppVenta.Infraestructura.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.API\\AppVenta.Infraestructura.API.csproj",
+        "projectName": "AppVenta.Infraestructura.API",
+        "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.API\\AppVenta.Infraestructura.API.csproj",
+        "packagesPath": "C:\\Users\\T480s i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T480s i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\AppVenta.Applicaciones.csproj": {
+                "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\AppVenta.Applicaciones.csproj"
+              },
+              "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.Datos\\AppVenta.Infraestructura.Datos.csproj": {
+                "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.Datos\\AppVenta.Infraestructura.Datos.csproj"
+              },
+              "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.DTO\\AppVenta.Infraestructura.DTO.csproj": {
+                "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.DTO\\AppVenta.Infraestructura.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.Datos\\AppVenta.Infraestructura.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.Datos\\AppVenta.Infraestructura.Datos.csproj",
+        "projectName": "AppVenta.Infraestructura.Datos",
+        "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.Datos\\AppVenta.Infraestructura.Datos.csproj",
+        "packagesPath": "C:\\Users\\T480s i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T480s i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\AppVenta.Applicaciones.csproj": {
+                "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Applicaciones\\AppVenta.Applicaciones.csproj"
+              },
+              "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj": {
+                "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.DTO\\AppVenta.Infraestructura.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.DTO\\AppVenta.Infraestructura.DTO.csproj",
+        "projectName": "AppVenta.Infraestructura.DTO",
+        "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.DTO\\AppVenta.Infraestructura.DTO.csproj",
+        "packagesPath": "C:\\Users\\T480s i7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Infraestructura.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\T480s i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj": {
+                "projectPath": "C:\\Users\\T480s i7\\Desktop\\Arquitectura-Hexagonal\\AppVenta.Dominio\\AppVenta.Dominio\\AppVenta.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

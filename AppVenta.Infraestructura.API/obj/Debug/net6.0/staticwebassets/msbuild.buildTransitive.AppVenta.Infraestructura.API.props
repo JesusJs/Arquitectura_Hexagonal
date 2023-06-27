@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AppVenta.Infraestructura.API.props" />
+</Project>

@@ -1,0 +1,46 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/UseMsbuildSolutionBuilder/@EntryValue">NewVersion</s:String>
+	
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\T480s i7\AppData\Local\Temp\JetBrains\ReSharperPlatformVs17\vAny_f8959a1f\CoverageData\_AppVenta.Dominio.-66606026\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=23db12bf_002D62ff_002D441e_002Db500_002D7ec5d40ae2a1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VentaDetalleTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.VentaDetalleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.VentaTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.ProductoTests.AsignarDatosProducto_ValidacionExitosa&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.ProductoTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=414d9ef7_002Ddff8_002D4e47_002D8693_002D9c6e7a0fe422/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AsignarDatosVentas_ValidacionExitosa" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.VentaTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5005EC9-7B65-4A9B-A53E-EEEC61F21E2E::net6.0::Aplicacion.Test.VentaServicioTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=52c4d92a_002D85de_002D49f6_002D9987_002D6b724e31a70a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VentaDetalleTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.VentaDetalleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F5005EC9-7B65-4A9B-A53E-EEEC61F21E2E::net6.0::Aplicacion.Test.VentaServicioTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7417fb01_002Ddc7c_002D4b5a_002Da6c5_002Db449dbae0a7f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VentaDetalleTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.VentaDetalleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=769a626d_002D1f06_002D4f3f_002Dad4f_002Deb77af80bd0e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VentaServicioTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5005EC9-7B65-4A9B-A53E-EEEC61F21E2E::net6.0::Aplicacion.Test.VentaServicioTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::81394EA7-BE9A-4D17-91C6-651240E6C730::net6.0::Dominio.Tests.VentaTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Not&gt;&#xD;
+      &lt;Project Location="C:\Users\T480s i7\Desktop\Arquitectura-Hexagonal\AppVenta.Dominio" Presentation="&amp;lt;AplicacionUnitTest&amp;gt;" /&gt;&#xD;
+    &lt;/Not&gt;&#xD;
+  &lt;/And&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d947748c_002D8f16_002D4e47_002Db2d0_002D2662f42531a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VentaServicioTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dec7e153_002De589_002D4ea7_002D81cb_002D7774a1abc9e9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DominioTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;81394EA7-BE9A-4D17-91C6-651240E6C730/f:DominioTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
